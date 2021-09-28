@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cs-iv4",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
